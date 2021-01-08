@@ -9,11 +9,13 @@ The wing of research is spreading with the multidisciplinary approach in solving
 The contributory hackathon has been developed to guide the learners implementing theories into practice along with practical implementation of contextual analysis. Further, the analytical mind of a reader will find its best way to excel in the field of research.
 
 
-## TASK:
+## THE PROCESS
 
-A dataset of 750 to 1000 students would be given on a weekly basis. The provided data might contain missing values as the students had remained absent for that day. The task of the hackathon is to fill in the missing values using appropriate imputation methods without removing the observation and build a predictive model for predicting the marks of students for the next weeks.
-
-This process continues for 15 weeks.  
+*  Participants will be given a content(audio, video or text) to be analyzed.
+*  Learn the article
+*  Select the comprehension models based on english literature and communication
+*  Optimise the comprehension process
+*  Conclude the understanding and generate meaning
 
 
 ## DETAILS OF THE HACKATHON 
@@ -33,7 +35,7 @@ This process continues for 15 weeks.
   - Students / Job Seekers / non exclusive freelancers
   - Nationality- Any country (Law of Singapore shall be applicable to all the participants irrespective of their nationality.)
   - Participants have to sign a non disclosure agreement.
-  - Team size - Minimum 2 members
+  - Team size - Only individual participants are allowed
   - Communicative Language - English (Mandatory)
   
   

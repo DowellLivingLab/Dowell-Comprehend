@@ -1,12 +1,12 @@
 
 ## DOWELL COMPREHEND
 
-The aim of this “Stat-Tricks” is to let your imagination guide you by pushing the boundaries of your statistical knowledge and skills to get a combination of imputation methods for building Time series prediction models. 
-
+Language and communication disciplines have their own theories to understand the social complexities. DoWell Research focuses on communication and language theories to understand the meaning of mediated texts. Participants would be given any of the contents (audio, video, text) for contextual analysis. The prime focus is on how the meaning is being communicated via the content. 
 
 ## DESCRIPTION:
+The wing of research is spreading with the multidisciplinary approach in solving domain problems. In this way, the technological term “hackathon” has made its place in the field of language and communication. Language and communication can not be separated either from technical studies or physiological , behavioral sciences or any other discipline. All maintain an equilibrium when it comes to understanding and implementing the studies in real life. 
 
-Recently, DoWell Research got a school principal as a client who, to check the General Knowledge of the school students, took a test everyday. The test was based on a particular topic/ domain each week, and he continued it for 15 weeks. He wanted to know about the behavioral and learning patterns of students. In this data, the names of the students have been replaced by numbers, where each row represents the marks scored by students out of 10. The data contains some missing values for days when a student was absent.
+The contributory hackathon has been developed to guide the learners implementing theories into practice along with practical implementation of contextual analysis. Further, the analytical mind of a reader will find its best way to excel in the field of research.
 
 
 ## TASK:
@@ -19,8 +19,8 @@ This process continues for 15 weeks.
 ## DETAILS OF THE HACKATHON 
 
 *   Location:  Online (GitHub)
-*   Duration:15 December,2020   
-*   Contact: DoWell Team Organizer
+*   Start date of registration:11 January,2021  
+*   Contact: Coordinator,Dowell Comprehend
 *   Email: 
 
 ## PARTICIPATION RULES OF HACKATHON 

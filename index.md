@@ -1,5 +1,5 @@
 
-## DOWELL COMPREHEND:
+## DOWELL COMPREHEND
 
 The aim of this “Stat-Tricks” is to let your imagination guide you by pushing the boundaries of your statistical knowledge and skills to get a combination of imputation methods for building Time series prediction models. 
 

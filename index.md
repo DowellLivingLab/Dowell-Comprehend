@@ -35,7 +35,7 @@ The contributory hackathon has been developed to guide the learners implementing
   - Students / Job Seekers / non exclusive freelancers
   - Nationality- Any country (Law of Singapore shall be applicable to all the participants irrespective of their nationality.)
   - Participants have to sign a non disclosure agreement.
-  - Team size - Only individual participants are allowed
+  - Team size - Minimum 2 members
   - Communicative Language - English (Mandatory)
   
   
